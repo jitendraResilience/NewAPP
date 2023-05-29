@@ -1,0 +1,44 @@
+/* Login part css */
+
+.ModalHeader{
+    background-image: linear-gradient( pink, lightYellow);
+}
+
+#contained-modal-title-vcenter{
+    text-Shadow: 4px 2px 6px red;
+}
+.logo{
+  text-shadow:4px 2px 6px white; 
+}
+
+.button{
+    box-shadow:3px 4px 2px black;
+}
+
+.formControl{
+border-radius: 19px;
+}
+
+
+
+
+/* HomePage part css */
+
+.col2{
+   
+    /* background-image: url("//frontend/public/images/b.webp"); */
+    background-image: linear-gradient(Royalblue #EEA47F);
+}
+
+.title_part_of_register{
+text-align: center;
+}
+
+
+
+
+/* Header part css  */
+
+.link{
+    color:"red"
+}
